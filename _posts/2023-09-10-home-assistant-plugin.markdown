@@ -2,7 +2,7 @@
 layout: post
 title:  "Openwrt安装Home Assistant"
 date:   2023-09-10 06:11:58 +0800
-categories: Home Assistant
+categories: HomeAssistant
 ---
 
 #### 前置准备
