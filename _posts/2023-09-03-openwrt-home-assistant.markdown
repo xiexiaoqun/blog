@@ -2,7 +2,7 @@
 layout: post
 title:  "Openwrt安装Home Assistant"
 date:   2023-09-02 06:11:58 +0800
-categories: jekyll update
+categories: Home Assistant
 ---
 
 
