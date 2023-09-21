@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Openwrt安装Home Assistant"
+title:  "Home Assistant 设备接入插件分享"
 date:   2023-09-10 06:11:58 +0800
 categories: HomeAssistant
 ---
