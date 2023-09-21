@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Openwrt ZRAM Swap设置"
-date:   2023-09-16 22:11:58 +0800
+date:   2023-09-22 06:11:58 +0800
 categories: Openwrt Zram Swap
 ---
 
