@@ -15,7 +15,7 @@ categories: Openwrt Zram Swap
 
 1. kmod-zram ——内核zram模块
 
-2. zram-swap ——swap模块
+2. zram-swap ——zram 配置脚本
 
 ### 配置
 
